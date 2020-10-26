@@ -3,7 +3,6 @@
     "name": "learning-wp",
     "alias": "learning-wp",
     "build": {
-        "src": "package.json",
         "use": "@now/next"
     }
 }
